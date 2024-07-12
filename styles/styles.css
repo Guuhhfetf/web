@@ -10,10 +10,11 @@ footer{
               max-width: 1440px;
               max-height: 652px;
               margin: 0 auto;
-              margin-top: 20px;
+              margin-top: 20px;   
               background-image: url(../images/Hero-bg.png);
               background-repeat: no-repeat;
-              background-position:center ;
+              background-position:cover ;
+
               
 
 }
@@ -388,10 +389,9 @@ footer{
      height: 314px;
      margin: 0 auto;
      margin-top: 20px;
-     background-image: url(/images/handshake.jpg);
+     background-image: url(../images/handshake.jpg);
      background-repeat: no-repeat;
-     background-position: center;
-     background-size: cover;
+     background-position:cover;
      padding: 64px 48px 64px 48px;
      background-color: rgba(0,0,0.2),rgba(0,0,0.2);rgba(0,0,0,0.2);
      margin-bottom:79px ;
