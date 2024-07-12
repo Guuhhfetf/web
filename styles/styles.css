@@ -385,15 +385,16 @@ footer{
 
 /*new support text style start*/
 .support-container{
-    max-width: 1140px;
-    max-height: 314px;
+      width: 1140px;
+      height: 314px;
      margin: 0 auto;
      margin-top: 20px;
      background-image: url(../images/handshake.jpg);
      background-repeat: no-repeat;
-     background-position:cover;
+     background-position:center;
+     background-size:center;
      padding: 64px 48px 64px 48px;
-     background-color: rgba(0,0,0.2),rgba(0,0,0.2);rgba(0,0,0,0.2);
+     background-color:  rgba(0,0,0.2),rgba(0,0,0.2);rgba(0,0,0,0.2);
      margin-bottom:79px ;
      border-radius: 14px;
 }
@@ -459,6 +460,7 @@ footer{
 .heading-footer{
      font-weight: 600;
      font-size: 17px;
+  
      
 }
 /*new footer style end*/
