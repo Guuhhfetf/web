@@ -460,6 +460,27 @@ footer{
 .heading-footer{
      font-weight: 600;
      font-size: 17px;
+ .facebook-1{
+        width:36px ;
+        height: 36px;
+        margin-right: 3px;
+     }
+  .github-1{
+     width:36px ;
+     height: 36px; 
+     margin-right: 10px;
+  } 
+  .linkedin-1{
+     width:36px ;
+     height: 36px;
+     margin-right: 3px;
+     
+  }  
+  .footer-img{
+     display: flex;
+     flex-direction: column;
+     
+  }
   
      
 }
